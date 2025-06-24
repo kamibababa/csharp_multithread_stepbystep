@@ -12,3 +12,4 @@ C:\Users\songbo\source\repos\MultiThreadDemo\MultiThreadDemo\obj\Debug\net8.0\re
 C:\Users\songbo\source\repos\MultiThreadDemo\MultiThreadDemo\obj\Debug\net8.0\MultiThreadDemo.pdb
 C:\Users\songbo\source\repos\MultiThreadDemo\MultiThreadDemo\obj\Debug\net8.0\MultiThreadDemo.genruntimeconfig.cache
 C:\Users\songbo\source\repos\MultiThreadDemo\MultiThreadDemo\obj\Debug\net8.0\ref\MultiThreadDemo.dll
+C:\Users\songbo\source\repos\MultiThreadDemo\MultiThreadDemo\obj\Debug\net8.0\MultiThreadDemo.sourcelink.json

@@ -88,42 +88,42 @@
 
 //            return true;
 //        }
-//        //static void Main(string[] args)
-//        //{
-//        //    Stopwatch stopwatch = new Stopwatch();
-//        //    stopwatch.Start();
-//        //    int num = 5;
-//        //    Thread thread = new Thread(() =>
-//        //    {
-//        //        printChar(num);
-//        //    });
-//        //    Thread thread2 = new Thread(() =>
-//        //    {
-//        //        printChar();
-//        //    });
+//        static void Main(string[] args)
+//        {
+//            Stopwatch stopwatch = new Stopwatch();
+//            stopwatch.Start();
+//            int num = 5;
+//            Thread thread = new Thread(() =>
+//            {
+//                printChar(num);
+//            });
+//            Thread thread2 = new Thread(() =>
+//            {
+//                printChar();
+//            });
 
-//        //    thread.Start();
-//        //    thread2.Start();
+//            thread.Start();
+//            thread2.Start();
 
-//        //    thread.Join();
-//        //    thread2.Join();
+//            thread.Join();
+//            thread2.Join();
 
-//        //    stopwatch.Stop();
+//            stopwatch.Stop();
 
-//        //    Console.WriteLine(stopwatch.ElapsedMilliseconds);
-//        //    //int num = 5;
-//        //    //Thread thread = new Thread(() =>
-//        //    //{
-//        //    //    printChar2(num);
-//        //    //});
-//        //    //Console.WriteLine("Main:" + Thread.CurrentThread.ManagedThreadId);
-//        //    //thread.Start();
-//        //    //Console.WriteLine("Hello, World!");
-//        //    //for (int i = 0; i < 10; i++)
-//        //    //{
-//        //    //    Console.WriteLine(i);
-//        //    //    Thread.Sleep(1);
-//        //    //}
-//        //}
+//            Console.WriteLine(stopwatch.ElapsedMilliseconds);
+//            //int num = 5;
+//            //Thread thread = new Thread(() =>
+//            //{
+//            //    printChar2(num);
+//            //});
+//            //Console.WriteLine("Main:" + Thread.CurrentThread.ManagedThreadId);
+//            //thread.Start();
+//            //Console.WriteLine("Hello, World!");
+//            //for (int i = 0; i < 10; i++)
+//            //{
+//            //    Console.WriteLine(i);
+//            //    Thread.Sleep(1);
+//            //}
+//        }
 //    }
 //}
